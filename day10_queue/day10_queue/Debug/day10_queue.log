@@ -1,0 +1,5 @@
+﻿  source.cpp
+c:\users\skilltreelab\documents\visual studio 2015\projects\day10_queue\day10_queue\source.cpp(168): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  day10_queue.vcxproj -> C:\Users\skilltreelab\Documents\Visual Studio 2015\Projects\day10_queue\Debug\day10_queue.exe
+  day10_queue.vcxproj -> C:\Users\skilltreelab\Documents\Visual Studio 2015\Projects\day10_queue\Debug\day10_queue.pdb (Full PDB)

@@ -25,6 +25,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DXApp.h" />
+    <ClInclude Include="DXUtil.h" />
     <ClInclude Include="Engine.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

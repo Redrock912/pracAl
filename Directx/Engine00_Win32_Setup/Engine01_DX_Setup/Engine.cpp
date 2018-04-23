@@ -9,6 +9,8 @@ Engine::Engine(HINSTANCE hinstance) : DXApp(hinstance) // DXApp 에서 생성자를 받
 
 Engine::~Engine()
 {
+	
+	
 }
 
 bool Engine::Init()

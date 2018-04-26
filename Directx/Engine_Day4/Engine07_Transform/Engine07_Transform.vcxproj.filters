@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DXApp.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DXApp.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUtil.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Effects.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{84a8fd45-a576-435a-80aa-560094c696ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{08647f70-6bdb-41cc-95d6-c22ac0635e10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
